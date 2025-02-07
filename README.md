@@ -117,8 +117,6 @@ Here's a quick GIF demonstrating the main workflow:
 
 - **Display Path Statistics:**
   - Show total distance traveled and estimated walking time on the UI.
-- **Additional Algorithms:**
-  - Incorporate **A\*** (A-Star) for faster shortest-path searches.
 - **Accessibility Features:**
   - Indicate wheelchair-accessible routes or building entrances.
 - **Real-Time Updates:**
