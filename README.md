@@ -8,6 +8,7 @@ A web-based navigation tool for a university campus that uses **BFS (Breadth-Fir
 - [Technologies Used](#%EF%B8%8F-technologies-used)
 - [Setup and Installation](#setup-and-installation)
 - [Usage](#usage)
+  - [Live Demo](#live-demo)
 - [Future Enhancements](#future-enhancements)
 - [License](#license)
 - [Acknowledgments](#acknowledgments)
@@ -106,6 +107,10 @@ campus-navigation/
    - The app calculates the route using your chosen algorithm.  
    - A polyline is drawn on the map indicating the path.
 
+### Live Demo
+Here's a quick GIF demonstrating the main workflow:
+
+![Campus Nav Demo](demo.gif)
 ---
 
 ## Future Enhancements
