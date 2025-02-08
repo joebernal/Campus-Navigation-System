@@ -33,7 +33,8 @@ A web-based navigation tool for a university campus that uses **BFS (Breadth-Fir
    - Prevents identical start/end choices.
 
 5. **Modular Codebase**  
-   - **`algorithms.js`** for pathfinding logic.  
+   - **`algorithms.js`** for pathfinding logic.
+   - **`graph.js`** for managing the graph data structure (nodes and adjacency lists).
    - **`app.js`** for main application flow, map initialization, and UI event handling.  
    - **`process_geojson.py`** for data processing.
 
