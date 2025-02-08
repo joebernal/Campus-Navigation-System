@@ -48,7 +48,8 @@ campus-navigation/
 │   └── styles.css          # Custom CSS for the UI
 ├── js/
 │   ├── algorithms.js       # Contains BFS, DFS, and Dijkstra implementations
-│   └── app.js             # Main application logic, map setup, event handlers
+│   ├── graph.js            # Graph class / data structure handling
+│   └── app.js              # Main application logic, map setup, event handlers
 ├── data/
 │   └── data.geojson        # Original campus GeoJSON data
 ├── campus_nodes_edges.json # Generated file with processed nodes and edges
