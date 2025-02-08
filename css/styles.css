@@ -1,0 +1,19 @@
+#controls {
+  position: absolute;
+  top: 10px;
+  left: 100px;
+  background: white;
+  padding: 10px;
+  z-index: 1000;
+  width: 240px;
+  font-size: 24px;
+}
+
+#controls select,
+#controls button {
+  display: block;
+  margin-bottom: 5px;
+  width: 240px;
+  height: 40px;
+  font-size: 18px;
+}
